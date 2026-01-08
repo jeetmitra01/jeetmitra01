@@ -1,5 +1,18 @@
 # 💫 About Me:
-I'm currently working on: <br>- FITVA - a calorie tracker with AI insights<br>- A server that allows users to see the xG of an event using my xG model trained on StatsBomb data<br><br>I am:<br> - A computer science graduate from UMass Amherst, interested in <br>Machine Learning, Artificial Intelligence, and Data Science.<br><br>When I'm not at my desk:<br> - I am mostly watching sports, I religiously follow FC Barcelona, the Indian Cricket Team, the Detroit Lions, and the Golden State Warriors<br>- I am playing video games, a big fan of the tactical shooter genre, but generally excited to play anything with some friends.
+### I'm currently working on: 
+- FITVA - a calorie tracker with AI insights
+- A server that allows users to see the xG of an event using my xG model trained on StatsBomb data
+<br>
+### I am:
+A computer science graduate from UMass Amherst, interested in -
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- and solving complex problems using code.
+<br>
+### When I'm not at my desk:
+- I am mostly watching sports. I religiously follow FC Barcelona, the Indian Cricket Team, the Detroit Lions, and the Golden State Warriors
+- I am playing video games, a big fan of the tactical shooter genre, but generally excited to play anything with some friends.
 
 
 ## 🌐 Socials:
