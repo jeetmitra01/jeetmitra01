@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### I'm currently working on: 
 - FITVA - a calorie tracker with AI insights
-- A server that allows users to see the xG of an event using my xG model trained on StatsBomb data
+- Analyzing PEAD using sentiment extracted from financial news headlines
 
 ### I am:
 A computer science graduate from UMass Amherst, interested in -
